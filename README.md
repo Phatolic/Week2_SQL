@@ -1,5 +1,5 @@
 ## Table Of Contents  
-[ERD](#erd)
+[ERD](#erd)  
 [Pizza Metrics](#a-pizza-metrics)
 
 ### ERD  
