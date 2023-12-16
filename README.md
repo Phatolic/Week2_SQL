@@ -1,6 +1,5 @@
 # Week2_SQL
-
-> ## Table Of Contents
+## Table Of Contents
 [ERD](https://github.com/Phatolic/Week2_SQL/edit/main/README.md#erd)  
 [Pizza Metrics]()
 ### ERD  
