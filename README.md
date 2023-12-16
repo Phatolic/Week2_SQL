@@ -1,15 +1,12 @@
-# Week2_SQL
-## Table Of Contents
-[ERD](#erd)  
-[Pizza Metrics]()
+## Table Of Contents  
+[ERD](#erd)
+[Pizza Metrics](#a-pizza-metrics)
+
 ### ERD  
-
-
-![](Week2/ERD.png )
+![](Week2/ERD.png)
 
 ## _REQUIREMENTS_  
-### A. Pizza Metrics
-
+## A. Pizza Metrics  
 - How many pizzas were ordered?  
 - How many unique customer orders were made?  
 - How many successful orders were delivered by each runner?  
@@ -21,7 +18,7 @@
 - What was the total volume of pizzas ordered for each hour of the day?  
 - What was the volume of orders for each day of the week?
 
-### Queries
+## Queries
 ```
 --   A. Pizza Metrics
 -- How many pizzas were ordered?
