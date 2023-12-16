@@ -1,11 +1,16 @@
 # Week2_SQL
-### ERD
+
+> ## Table Of Contents
+[ERD](https://github.com/Phatolic/Week2_SQL/edit/main/README.md#erd)  
+[Pizza Metrics]()
+### ERD  
+
 
 ![](Week2/ERD.png )
 
-## _REQUIREMENTS_
+## _REQUIREMENTS_  
+### A. Pizza Metrics
 
-## A. Pizza Metrics
 - How many pizzas were ordered?  
 - How many unique customer orders were made?  
 - How many successful orders were delivered by each runner?  
