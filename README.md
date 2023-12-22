@@ -1,7 +1,7 @@
 ## Table Of Contents  
 [ERD](#erd)  
 [Pizza Metrics](#a-pizza-metrics)  
-[Runner & Customer]()
+[Runner & Customer](#b-runner-and-customer-experience)
 
 ### ERD  
 ![](Week2/ERD.png)
